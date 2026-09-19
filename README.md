@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">- Currently working on Firmware Dev @SAMSUNG INDIA<br>- Know more about me at https://anikdas.netlify.app/</h4>
+<h4 align="left">- Currently working as Linux Kernel Dev @Qualcomm <br>- Know more about me at https://anikdas.netlify.app/</h4>
 
 ###
 
