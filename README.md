@@ -12,11 +12,11 @@
 <br>
 
 <div align="center">
-
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,docker,git,github,aws,js,ts,react,nodejs"
-       alt="Tech Stack"
-       height="50" />
-
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,python,linux,docker,git,github,aws,js,ts,react,nodejs"
+    height="50"
+    alt="Tech Stack"
+  />
 </div>
 
 ###
@@ -27,13 +27,13 @@
 
   <img
     src="./profile/stats.svg"
-    height="170"
+    width="48%"
     alt="GitHub Stats"
   />
 
   <img
     src="./profile/top-langs.svg"
-    height="170"
+    width="48%"
     alt="Top Languages"
   />
 
