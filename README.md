@@ -9,82 +9,39 @@
 
 ###
 
-<br clear="both">
+<br>
 
-<div align="left">
+<div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-       height="30" alt="C" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-       height="30" alt="C++" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-       height="30" alt="Python" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-       height="30" alt="Linux" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-       height="30" alt="Docker" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-       height="30" alt="Git" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-       height="30" alt="GitHub" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-       height="30" alt="AWS" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-       height="30" alt="JavaScript" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-       height="30" alt="TypeScript" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-       height="30" alt="React" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-       height="30" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,docker,git,github,aws,js,ts,react,nodejs"
+       alt="Tech Stack"
+       height="50" />
 
 </div>
 
 ###
 
-<br clear="both">
+<br>
 
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dasanik2001&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
-    height="150"
-    alt="GitHub stats"
+    src="./profile/stats.svg"
+    height="170"
+    alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasanik2001&layout=compact&langs_count=6&theme=dracula&hide_border=false"
-    height="150"
-    alt="Top languages"
+    src="./profile/top-langs.svg"
+    height="170"
+    alt="Top Languages"
   />
 
 </div>
 
 ###
 
-<br clear="both">
+<br>
 
 <div align="center">
 
